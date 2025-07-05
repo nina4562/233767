@@ -30,4 +30,4 @@
 
 体验。我们还提供快速搜索与智能推荐系统，帮助你更快找到心仪作品。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/nina4562/233767 ）</span>
